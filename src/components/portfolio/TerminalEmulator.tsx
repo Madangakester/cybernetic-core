@@ -31,7 +31,7 @@ export function TerminalEmulator() {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const line = SCRIPT[lineIndex % SCRIPT.length];
+    const line = SCRIPT[lineIndex % SCRIPT.length]!;
     const isCmd = line.kind === "cmd";
     if (chars < line.text.length) {
       const t = setTimeout(() => setChars((c) => c + 1), isCmd ? 45 : 8);
@@ -52,7 +52,7 @@ export function TerminalEmulator() {
   }, [lineIndex, chars]);
 
   const done = SCRIPT.slice(0, lineIndex);
-  const current = SCRIPT[lineIndex % SCRIPT.length];
+  const current = SCRIPT[lineIndex % SCRIPT.length]!;
 
   return (
     <div className="glass-panel glow-border relative overflow-hidden scanlines">
