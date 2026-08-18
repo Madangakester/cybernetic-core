@@ -1,0 +1,41 @@
+KESTER MADANGA
+Software Engineer & IT Support Specialist
+Nairobi, Kenya | madangakester@gmail.com | +254 705 928 104
+LinkedIn: https://www.linkedin.com/in/kester-madanga-87225338a
+GitHub: https://github.com
+
+SUMMARY
+Building resilient .NET backends, automating cloud deployment pipelines, and
+optimizing system architectures.
+
+EXPERIENCE
+Junior Software Engineer (progressed from Apprentice) — JP Innovate, London, UK (Remote)
+Jun 2025 – Jan 2026
+- Engineered application reliability and performance features.
+- Authored unit and API test suites.
+- Maintained monitoring and observability dashboards.
+- Managed CI/CD build pipelines using Azure DevOps.
+- Used AI-assisted tooling for debugging and documentation in Agile Scrum teams.
+Tech: C#, .NET 10, SQL Server, PostgreSQL, Azure DevOps, Azure Service Bus, Grafana, xUnit, Git, GitHub, Jira
+
+ICT Attachment & Lab Support Assistant — Harvard Institute of Technical Studies, Thika, Kenya
+Jan 2026 – Apr 2026
+- Instructed units in DBMS, OOP, Operating Systems and software packages.
+- Provisioned, secured and maintained lab network infrastructure, servers and hardware.
+- Managed asset inventory and system administration.
+Tech: Windows Admin, Networking, Hardware Diagnostics, DBMS, System Maintenance
+
+Financial Agent — Finn Kenya, Thika, Kenya
+Apr 2026 – Jul 2026
+- Client acquisition, financial advisory, CRM record management, negotiation outreach.
+Tech: CRM, Financial Advisory, Data Analytics, Client Acquisition
+
+TECHNICAL STACK
+Backend & Engineering: C#, .NET 10, RESTful APIs, Asynchronous Programming, DDD, TDD, HTML5/CSS3
+Cloud, DevOps & Databases: Azure DevOps, Azure Service Bus, Azure CosmosDB, SQL Server, PostgreSQL, Redis, CI/CD
+IT & Systems Administration: Windows Administration, Computer Networking, Hardware Troubleshooting, Software Deployment
+AI & Data Operations: AI-Assisted Tools, Prompt Engineering, Workflow Automation, Advanced Excel / Data Analysis
+
+EDUCATION
+BSc. Business Information Technology (Major: Software Development)
+Mount Kenya University, Kenya — 2023 – 2026
